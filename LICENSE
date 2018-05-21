@@ -1,0 +1,53 @@
+SDK EULA
+Released: May 12, 2018
+
+APPRENEUR Software Development Kit -- End User License Agreement
+This End User License Agreement (the "Agreement") is a legal agreement between you (either an individual or an entity) and NXST incorporation (the “NXST”) regarding the use of NXST's software development kit entitled APPRENEUR SDK, which may include user documentation provided in "online" or electronic form, object code, interface declarations, assemblies, and sample source code (the "Software"). By filling in the user information and clicking the button marked "Agree", you agree to be bound by the terms of this Agreement. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, DO NOT SELECT THE "AGREE" BOX. YOU WILL NOT BE PROVIDED THE SOFTWARE UNLESS AND UNTIL YOU HAVE AGREED TO BE BOUND BY THESE TERMS.
+
+Grant of License. NXST grants to you:
+A nonexclusive, nontransferable, worldwide, royalty-free right and license to use, copy and distribute the Software in conjunction with the distribution of your own products (the 'Products') and
+A nonexclusive, nontransferable, worldwide, royalty-free right and license to use the relevant and necessary components of the Software solely to incorporate the Software into the Products.
+Proprietary Rights
+NXST and its licensors own, and shall retain ownership of, all right, title, and interest to the Software, including, without limitation, all copyrights and other intellectual property rights therein. Without limiting the foregoing, the Software is protected by United States copyright laws and international treaty provisions. Therefore, you may not use, copy, or distribute the Software without authorization.
+
+Restrictions
+You may not (1) modify, create derivative works of, reverse engineer, reverse compile, or disassemble the Software, except that you may modify and create derivative works based upon the sample source code included within the Software (the 'Sample Code') and distribute the modified Sample Code in connection with the Product ; (2) distribute, sell, lease, rent, lend, or sublicense any part of the Software to any third party except as expressly provided herein and as necessary to distribute the Product; (3) use the Software to develop software to upload or otherwise transmit any material containing software viruses or other computer code, files or programs designed to interrupt, destroy, or limit the functionality of any software or hardware. You may not represent that the Products are certified or otherwise endorsed by NXST. You may not use the Company name or any other trademarks or service marks of Company in connection with the Products.
+You will not receive any support or subscription services for the Software or any services from NXST in connection with the Software, except as expressly provided in this Agreement.
+
+Data
+In order to continually provide Analytics Data of your end users, NXST may automatically collect certain usage statistics including, but not limited to, unique identifiers, associated IP address, and/or Event Data on which tools and services in the SDK are being used and how you are being used. We may also collect certain mobile device information from end users, including but not limited to device name, device model, OS, Location, Time / Date information, and other general information. The Analytics Data may be transmitted to the APPRENEUR Data Center and used by you for any use in end user’s usage statistics. This information will be maintained in accordance with NXST’s Privacy Policy, and you hereby agree that we may share this information with our third-party business partners for purposes of APPRENEUR Service or provide certain functions and as otherwise permitted by our Privacy Policy.
+
+By using the SDK, you represent and warrant that you will provide clear and conspicuous notice to each user of the Application of the automatic collection, storage, and NXST’s use of the Analytics Data, and that you will obtain any legally-required consents for NXST to receive and use the Analytics Data for the purposes specified herein. The Data Information is maintained in accordance with NXST’s Privacy Policy located at HERE.
+
+Confidentiality
+You agree to maintain the confidentiality of any proprietary information received by you during, or prior to entering into, this Agreement, including, without limitation, the Software, that you should know is confidential or proprietary based on the circumstances surrounding the disclosure, including, without limitation, non-public technical and business information ('Confidential Information') for a period of five (5) years after the termination of this Agreement. This section shall not apply to any publicly available or independently developed information. You agree not to use said Confidential Information for any purpose except as necessary to fulfill your obligations and exercise your rights under this Agreement. You shall protect the secrecy of and avoid disclosure and unauthorized use of the NXST's Confidential Information to the same degree that you take to protect your own confidential information and in no event less than reasonable care.
+
+Indemnification
+You agree to defend, indemnify and hold harmless NXST, and any of its directors, officers, employees, affiliates or agents, from and against any and all claims, losses, damages, liabilities and other expenses (including attorneys' fees), arising from your use, modification and distribution of the Software or breach of this Agreement.
+
+Term and Termination
+This Agreement shall continue as long as you are in compliance with the terms specified herein or until otherwise terminated. You and/or NXST may terminate this Agreement for any reason at any time. You agree, upon termination, to destroy all copies of the Software within your possession or control. The Confidentiality, Indemnification, No Warranties, Limitation of Liability, and General sections set out in this Agreement shall survive any termination of this Agreement.
+
+NO WARRANTIES
+You assume the entire cost of any damage resulting from the information contained in or compiled by the software. You assume all responsibilities for selection of the software to achieve your intended results, and for the installation of, use of, and results obtained from the software. The software is provided 'as is' without warranties of any kind. To the maximum extent permitted by applicable law, NXST disclaims all warranties, either express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and NONINFRINGEMENT with respect to the software. Some states do not allow limitations on implied warranties, so the above limitation may not apply to you.
+
+LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, NXST and its partners will not be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use or inability to use the software, even if company or such party has been advised of the possibility of such damages. In no event will NXST's total liability to you for all damages in any one or more cause of action exceed $50. This limitation will apply regardless of the failure of any essential remedy. Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.
+
+U.S. Government-Restricted Rights
+The Software and accompanying documentation are deemed to be "commercial computer software" and "commercial computer Software documentation," respectively, pursuant to DFAR Section 227.7202 and FAR Section 12.212, as applicable. Any use, modification, reproduction release, performance, display or disclosure of the Software and accompanying documentation by the U.S. Government will be governed solely by the terms of this Agreement and shall be prohibited except to the extent expressly permitted by the terms of this Agreement.
+
+General
+This Agreement is governed by the laws of the United States and the State of California, without reference to conflict of laws principles. Any dispute between you and Company regarding this Agreement will be subject to the exclusive venue of the state and federal courts in the Northern District of California. This Agreement is the entire agreement between you and Company and supersedes any other communications or advertising with respect to the Software and documentation. If any provision of this Agreement is held invalid, the remainder of this Agreement shall continue in full force and effect.
+Correspondence.
+
+Questions
+If you have any questions regarding the Terms of Use, please contact us.
+
+Write us:
+871 Brevins Loop
+San Jose, CA 95125
+
+Email us:
+contact@nxstinc.com
+
