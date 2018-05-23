@@ -1,0 +1,17 @@
+framework module Appreneur {
+  umbrella header "appreneur.h"
+
+  export *
+  module * { export * }
+  
+  header "NTracker.h"
+  header "NLog.h"
+  header "NSession.h"
+  header "NForm.h"
+  header "NFormLifecycleTracker.h"
+  header "NFormLifecycleAutoTracker.h"
+  header "NFormLifecycleCustomTracker.h"
+  header "NErrorTracker.h"
+  header "NWebviewTracker.h"
+}
+
