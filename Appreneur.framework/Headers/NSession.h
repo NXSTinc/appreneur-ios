@@ -2,7 +2,7 @@
 #import <UIKit/UIKit.h>
 #import "NForm.h"
 
-#define KEEPALIVE_INTERVAL 30.0
+#define KEEPALIVE_INTERVAL 3600.0 // 1 hour (UNIT : seconds)
 #define TIMER_INTERVAL 5.0
 
 

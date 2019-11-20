@@ -6,6 +6,7 @@
 //
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import <UserNotifications/UserNotifications.h>
 #import "NLog.h"
 
 
@@ -49,6 +50,7 @@
 - (nonnull NBuilder *) track:(nonnull NSString *) type withEnabledKey:(nullable NSString *) key;
 
 - (BOOL) checkTrackerSelfPushMessage:(nonnull NSDictionary *) message;
+- (void) handleInAppMessageNofiticationMessage: (NSDictionary *_Nonnull) message withContentHandler:(void (^_Nonnull)(UNNotificationContent * _Nonnull contentToDeliver))contentHandler;
 - (void) registerPushToken:(nonnull NSData *) token;
 - (void) keepAlive;
 

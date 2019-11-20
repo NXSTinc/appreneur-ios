@@ -1,9 +1,8 @@
 framework module Appreneur {
   umbrella header "appreneur.h"
-
   export *
   module * { export * }
-  
+
   header "NTracker.h"
   header "NLog.h"
   header "NSession.h"
@@ -14,4 +13,3 @@ framework module Appreneur {
   header "NErrorTracker.h"
   header "NWebviewTracker.h"
 }
-
