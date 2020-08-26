@@ -5,6 +5,9 @@
 @interface NWebviewTracker : NSObject {
 }
 
+- (id) init;
+- (id) initWithViewController:(UIViewController *)viewController;
+
 //--
 - (void) track:(id) webView;
 

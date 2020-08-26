@@ -13,7 +13,7 @@
 /**
  *  NTracker
  *
- *  @version 1.1
+ *  @version 1.6
  *  @since 1.0
  */
 @interface NTracker : NSObject {
@@ -53,6 +53,8 @@
 - (void) handleInAppMessageNofiticationMessage: (NSDictionary *_Nonnull) message withContentHandler:(void (^_Nonnull)(UNNotificationContent * _Nonnull contentToDeliver))contentHandler;
 - (void) registerPushToken:(nonnull NSData *) token;
 - (void) keepAlive;
+
+- (void) latitude:(double) latitude longitude:(double) longitude;
 
 //--
 
