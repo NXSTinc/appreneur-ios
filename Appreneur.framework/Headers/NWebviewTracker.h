@@ -6,9 +6,9 @@
 }
 
 - (id) init;
-- (id) initWithViewController:(UIViewController *)viewController;
 
 //--
 - (void) track:(id) webView;
+- (void) track:(id) webView withViewController:(UIViewController *)viewController;
 
 @end

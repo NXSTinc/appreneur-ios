@@ -62,6 +62,7 @@ typedef NS_ENUM(NSInteger, Gender) {
 @property                  BOOL                 immediately;
 
 - (NLog *) init: (NSString *)type;
++ (void) reset;
 
 @end
 
@@ -105,6 +106,8 @@ typedef NS_ENUM(NSInteger, Gender) {
 - (NBuilder *) account: (NSString *) userId name: (NSString *) userName photoUrl: (NSString *) photoUrl gender: (NSString *) gender yearOfBirth: (NSInteger) yearOfBirth;
 
 - (NBuilder *) pushToken: (NSString *) pushToken;
+
+- (NBuilder *) immediately:(BOOL) on;
 
 - (BOOL) submit: (NSError **) error;
 

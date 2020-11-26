@@ -19,7 +19,7 @@
 @interface NTracker : NSObject {
 }
 
-@property (strong, atomic, nonnull) id session;
+@property (strong, atomic, nullable) id session;
 @property (nullable) id formLifecycleTracker;
 
 /**
@@ -37,11 +37,12 @@
  *  @version 1.0
  *  @since 1.0
  *
- *  @param context UIApplication
+ *  @param application UIApplication
  *  @param launchOptions NSDictionary
  *  @return Singleton instance
  */
-+ (nonnull id) init: (nonnull UIApplication *) context withLaunchOptions: (nullable NSDictionary *)launchOptions;
++ (nonnull id) application: (nonnull UIApplication *) application willFinishLaunchingWithOptions: (nullable NSDictionary *)launchOptions;
+
 
 + (void) verbose: (BOOL) on;
 + (BOOL) isConfigurationEnabled:(nullable NSString *) key;
